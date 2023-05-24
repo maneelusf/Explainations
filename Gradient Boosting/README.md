@@ -1,2 +1,3 @@
-# hw4-template
-template for hw4
+## About
+This repository gives a detailed explanation of the gradient boosting algorithm . The code is located in test.ipynb. 
+
