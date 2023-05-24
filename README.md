@@ -1,5 +1,5 @@
 # Explanations
-This project contains explaination about different types of algorithms used in importance. The various projects are 
+This project contains explaination about different types of Machine Learning algorithms used. The various projects are 
 1. [K means](https://github.com/maneelusf/Explainations/blob/main/K%20means/README.md)
 2. [Feature Importance](https://github.com/maneelusf/Explainations/blob/main/Feature%20Importance/README.md)
 3. [Linear Regression](https://github.com/maneelusf/Explainations/blob/main/Linear%20Regression/README.md)
